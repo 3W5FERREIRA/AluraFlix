@@ -1,6 +1,7 @@
 body {
-    color: blue
-  background:rgb (0,128,0)
+    color: white;
+    background: black;
+    margin: 50px;
 }
 
 header {
